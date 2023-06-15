@@ -1,0 +1,74 @@
+body {
+    background-color: #CCCCFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #00BBFF;
+}
+
+h1 {
+    text-align: center;
+    background: #CCEEFF;
+    padding: 80px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    float: left;
+}
+
+
+input[type=submit] {
+    background-color: #EEFFBB;
+    color: #66DD00;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border: 2px solid purple;
+    border-radius: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+#welcome {
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+.loginform {
+    text-align: center;
+}
+
+}
+
+#register {
+    text-align: center;
+}
+#logout {
+    float: right;
+    width: 15%;
+    font-size: 15pt;
+    padding: 15px;
+}
+
+#leftform {
+    float: left;
+    width: 50%;
+    height: 800px;
+}
+
+#uploadbutton {
+    font-size: 10pt;
+    padding: 10px;
+}
+
+ul {
+    width: 50%;
+    margin: auto;
+}
+
+.redirect {
+    text-align: left;
+}
